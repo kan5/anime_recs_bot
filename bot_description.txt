@@ -1,0 +1,23 @@
+description:
+Tsubasa-chan and Reo-senpai will help you find new anime based on your MyAnimeList profile.
+
+Let's start!
+
+
+about:
+Channel for updates: @tsbcs
+
+
+commands:
+donate - support the author
+start - start again
+help - get this message
+feedback - give feedback
+about - how recommendations work
+recommend_again - get recs for the same username
+change_username - guess wat
+
+вк:
+1. Персонажи бота -- две аниме девочки, которые общаются голосовыми.
+2. Они помогают найти аниме, основываясь на уже просмотренных.
+3. Информация о просмотренных аниме берется с сайта MyAnimeList.net, где можно выставить оценки разным аниме.. Информация о просмотренных аниме берется с сайта MyAnimeList.net, где можно выставить оценки разным аниме.
