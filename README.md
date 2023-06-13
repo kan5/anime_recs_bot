@@ -16,3 +16,15 @@ There using BERT4rec to recommend and SHAP to explain results.
 - Notebook - [Kaggle](https://www.kaggle.com/code/payngay/preparing-data-for-recbole)
 - telegram bot - aiogram
 - voice generator - voicevox
+
+## Launch settings
+
+1. install packages for python 3.7
+2. add token.json from myanimelist app/data/token.json
+3. add .env to bot/.env with  
+API_TOKEN=from telegram bot  
+CLIENT_ID=from mal_api  
+CLIENT_SECRET=from mal_api  
+4. install and launch mongodb
+5. launch api/app.py
+6. launch bot/bot.py
