@@ -7,6 +7,7 @@ There using BERT4rec to recommend and SHAP to explain results.
 
 # Demo
 [Youtube video](https://youtu.be/FTQkJ_1QYe0)
+
 [Miro dialog tree](https://miro.com/app/board/uXjVMS2CQnA=/?share_link_id=443006680615)
 
 ## Stack
