@@ -5,10 +5,10 @@ This is a telegram bot, that can recommend anime based on your watched titles re
 
 There using BERT4rec to recommend and SHAP to explain results.
 
-# Demo
-[Youtube video](https://youtu.be/FTQkJ_1QYe0)
-
-[Miro dialog tree](https://miro.com/app/board/uXjVMS2CQnA=/?share_link_id=443006680615)
+# Additional materials
+Youtube video demonstartion - https://youtu.be/FTQkJ_1QYe0
+Thesis in pdf - https://drive.google.com/file/d/1RAlhXHM5VXTxHMHDxKKXvmvBVhBcOe4J/view?usp=sharing
+Miro dialog tree - https://miro.com/app/board/uXjVMS2CQnA=/?share_link_id=443006680615
 
 ## Stack
 
